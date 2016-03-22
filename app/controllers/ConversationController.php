@@ -1,6 +1,7 @@
 <?php
 
 use LaravelRealtimeChat\Repositories\Conversation\ConversationRepository;
+use LaravelRealtimeChat\Repositories\User\UserRepository;
 
 class ConversationController extends \BaseController {
 
